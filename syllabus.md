@@ -7,7 +7,7 @@ Office: Hamilton 404<br>
 Office hours: Mondays, 1-2pm; Wednesdays, 11:15am-12:15pm; &amp; by appointment.<br>
 Email: gwwright(at)live(dot)unc(dot)edu<br>
 Twitter: @grt_wrt
-
+<br>
 <strong>Course Overview</strong>
 
 In this course, we will explore the history of the modern United States through the lens of popular culture. We will analyze film, music, television, comics, and more, to seek to understand American values, anxieties, and politics from the late nineteenth century to the present day. Rather than approaching popular culture as a collection of distractions or diversions from “real” history, we will consider artifacts of popular culture with critical analysis in order to place them in their historical, cultural, and critical contexts. To do so we will return to questions about a few central themes throughout the semester:
