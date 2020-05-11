@@ -7,24 +7,15 @@ Office: Hamilton 404<br>
 Office hours: Mondays, 1-2pm; Wednesdays, 11:15am-12:15pm; &amp; by appointment.<br>
 Email: gwwright(at)live(dot)unc(dot)edu<br>
 Twitter: @grt_wrt
+
 <br>
 <strong>Course Overview</strong>
 
 In this course, we will explore the history of the modern United States through the lens of popular culture. We will analyze film, music, television, comics, and more, to seek to understand American values, anxieties, and politics from the late nineteenth century to the present day. Rather than approaching popular culture as a collection of distractions or diversions from “real” history, we will consider artifacts of popular culture with critical analysis in order to place them in their historical, cultural, and critical contexts. To do so we will return to questions about a few central themes throughout the semester:
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
  	<li><u>Moral panics</u>: Why have certain works served as lightning rods in American society? What do these moral panics reveal about popular culture? What do they reveal about American politics and society more broadly?</li>
  	<li><u>Inclusion vs. exclusion</u>: To what extent has popular culture unified Americans from different background? To what extent has it played into exclusionary lines between different groups within the United States?</li>
  	<li><u>Capital and consumption</u>: How has the business of popular culture changed from the early 20<sup>th</sup> century to the present? Who have been the dominant consumers of popular culture in different time periods? How have technological innovations affected the ways in which Americans consume popular culture?</li>
  	<li><u>Production and representation</u>: Who have been the creators of popular culture, historically speaking? Who has been represented within works of pop culture? How has this changed over time, and how are the concepts of production and representation related?</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
 
 &nbsp;
 
