@@ -7,7 +7,7 @@ Office hours: Mondays, 1-2pm; Wednesdays, 11:15am-12:15pm; &amp; by appointment.
 Email: gwwright(at)live(dot)unc(dot)edu
 Twitter: @grt_wrt
 
-[expand title="<strong>Course Overview</strong>"]
+<strong>Course Overview</strong>
 
 In this course, we will explore the history of the modern United States through the lens of popular culture. We will analyze film, music, television, comics, and more, to seek to understand American values, anxieties, and politics from the late nineteenth century to the present day. Rather than approaching popular culture as a collection of distractions or diversions from “real” history, we will consider artifacts of popular culture with critical analysis in order to place them in their historical, cultural, and critical contexts. To do so we will return to questions about a few central themes throughout the semester:
 <ul>
@@ -24,11 +24,10 @@ In this course, we will explore the history of the modern United States through 
 </ul>
 </li>
 </ul>
-[/expand]
 
 &nbsp;
 
-[expand title="<strong>Course Objectives</strong>"]
+<strong>Course Objectives</strong>
 <ul>
  	<li style="list-style-type: none;">
 <ul>
@@ -43,11 +42,10 @@ In this course, we will explore the history of the modern United States through 
 </ul>
 </li>
 </ul>
-[/expand]
 
 &nbsp;
 
-[expand title="<strong>Course Materials</strong>"]
+<strong>Course Materials</strong>
 
 <strong>You will not need to purchase any textbooks for this course.</strong> All readings will be posted on the course Sakai page. Every Friday afternoon, I will post the required readings for the following week.
 
@@ -55,11 +53,9 @@ In this course, we will explore the history of the modern United States through 
 
 This course assumes some basic knowledge of late-nineteenth- and twentieth-century United States history. If you feel like you need some supplementary historical context in order to fully understand the course material, I recommend reading <em><a href="http://americanyawp.com">The American Yawp</a> </em>or purchasing a textbook for the history of the United States since 1865 (or 1877), such as <em>American Horizons</em>.
 
-[/expand]
-
 &nbsp;
 
-[expand title="<strong>Assignments</strong>"]
+<strong>Assignments</strong>
 
 <em>Blog posts and responses</em> (20% of your grade): See the <a href="https://hist363.web.unc.edu/hist-363-blogs/"><strong>HIST 363 Blog Posts page</strong></a> for instructions for this assignment.
 
@@ -79,7 +75,7 @@ This course assumes some basic knowledge of late-nineteenth- and twentieth-centu
 
 <span style="text-decoration: underline;"><strong>Late</strong></span><strong><span style="text-decoration: underline;"> Policy</span>: </strong>Late blog posts and comments will receive no credit. Students who do not attend class on Self Assessment days without contacting Prof. Wright ahead of time with a justifiable excuse will receive no credit for Self Assessments. For Pop Culture Logs and the Midterm Essay, 1/3 of a letter grade will be docked from the assignment for every 24 hours it is late, beginning at the deadline. E.g., a Pop Culture Log submitted between 5:01am the day it was due and 4:59am the following day will lose 1/3 of a letter grade.
 <h4>Students must adhere to the standards and expectations of the UNC-CH Honor Code and Honor System for all assignments in HIST 363. Plagiarism, unauthorized collaboration, and all other forms of cheating are strictly prohibited. <span style="color: #993300;"><em><u>This class has a ZERO-TOLERANCE plagiarism policy, meaning that any instance of plagiarism will result in an immediate F on that assignment with no opportunity to make up credit</u></em></span>. If you have any questions or concerns about the Honor Code, please contact me or visit the Office of Student Conduct at <a href="https://studentconduct.unc.edu/">https://studentconduct.unc.edu</a>.</h4>
-[/expand]
+
 <h1 style="text-align: center;"><span style="text-decoration: underline;"><strong>Class Schedule</strong></span></h1>
 <h4><em>Note: This schedule is a living document--i.e., it is subject to change. Check it regularly.</em></h4>
 <h5 style="text-align: center;">unit 1: the origins of american popular culture</h5>
