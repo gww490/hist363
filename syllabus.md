@@ -1,4 +1,4 @@
-<p style="text-align: center;"><strong>HIST 363: Popular Culture and American History
+<p style="text-align: center;"><strong>HIST 363: Popular Culture and American History<br>
 </strong><strong>MWF 10:10-11:00, Phillips 332
 </strong></p>
 Instructor: Garrett Wright (he/him/his; “Dr.” or “Prof.” or "Garrett")
