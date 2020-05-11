@@ -1,10 +1,11 @@
-<p style="text-align: center;"><strong>HIST 363: Popular Culture and American History<br>
-</strong><strong>MWF 10:10-11:00, Phillips 332
-</strong></p>
-Instructor: Garrett Wright (he/him/his; “Dr.” or “Prof.” or "Garrett")
-Office: Hamilton 404
-Office hours: Mondays, 1-2pm; Wednesdays, 11:15am-12:15pm; &amp; by appointment.
-Email: gwwright(at)live(dot)unc(dot)edu
+<p style="text-align: center;"><strong>HIST 363: Popular Culture and American History
+</strong><br>
+ <strong>MWF 10:10-11:00, Phillips 332</strong><br>
+</p>
+Instructor: Garrett Wright (he/him/his; “Dr.” or “Prof.” or "Garrett")<br>
+Office: Hamilton 404<br>
+Office hours: Mondays, 1-2pm; Wednesdays, 11:15am-12:15pm; &amp; by appointment.<br>
+Email: gwwright(at)live(dot)unc(dot)edu<br>
 Twitter: @grt_wrt
 
 <strong>Course Overview</strong>
